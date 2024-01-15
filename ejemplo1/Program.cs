@@ -31,6 +31,7 @@ namespace ejemplo1
             b1.Capacidad = 200;
 
             int algo = b1.Capacidad;
+            //le agrego un comentario para probar los controles de git...
 
             Perro perro1 = new Perro();
             perro1.Nombre = "pepe";
